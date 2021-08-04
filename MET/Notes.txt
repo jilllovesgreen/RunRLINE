@@ -1,0 +1,13 @@
+Sacramento
+Downloaded from Sacramento Metro AQMD
+International Airport
+Excecutive Airport data is used because it is closer to the experiment area.
+
+
+Stockton
+http://www.valleyair.org/busind/pto/tox_resources/AirQualityMonitoring.htm#met_data
+Use the oldest IE to download, otherwise it would not work.
+
+Modesto
+http://www.valleyair.org/busind/pto/tox_resources/AirQualityMonitoring.htm#met_data
+Use the oldest IE to download, otherwise it would not work.
