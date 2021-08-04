@@ -1,0 +1,5 @@
+This folder includes the R-LINE program downloaded from https://www.cmascenter.org/r-line/
+The RunRLINE calls this folder to calculate concentration.
+
+1. Unzip the zipped file all in the RLINE_PRO folder before running the scripts.
+2. The LB_Jday130Hr10sfc.txt is an example MET/weather data file. This file should be updated for specific location/time/day if needed.
